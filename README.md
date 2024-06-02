@@ -14,3 +14,10 @@ $ npx prisma init
 ```bash
 $ npx prisma db pull
 ```
+
+### prisma/clientの導入方法
+
+```bash
+$ npm install @prisma/client
+$ npx prisma generate
+```
